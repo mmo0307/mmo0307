@@ -1,5 +1,5 @@
 # 👋Hi, my name is **Misha Mishin**!
-## I'm a beginner *Front-end developer* from Dnepr.
+## I'm a beginner *Front-end #REACT developer* from Dnepr.
 ## Check my Linkedin: [Linkedin](https://www.linkedin.com/in/misha-mishin-7b4a03207/)
 ## Languages and Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
