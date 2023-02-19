@@ -1,5 +1,5 @@
 # 👋Hi, my name is **Misha Mishin**!
-## I'm *Front-end REACT developer* from Dnepr.
+## I'm *Front-end REACT developer* from Dnipro (Ukraine).
 ## Check my Linkedin: [Linkedin](https://www.linkedin.com/in/misha-mishin-7b4a03207/)
 ## Languages and Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
