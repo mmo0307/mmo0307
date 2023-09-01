@@ -11,4 +11,3 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ### ✉️ Mail me: mmo030702@gmail.com
 ### 🔵 Telegram: [@misha7737](https://t.me/misha7737)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f21d7bb128dce3cb9c3889?variant=dark&roadmaps=frontend)](https://roadmap.sh)
