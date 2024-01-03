@@ -1,4 +1,4 @@
-# 👋Hi, my name is **Misha Mishin**!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8BHi%2C+my+name+is+Misha+Mishin!)](https://git.io/typing-svg)
 ## I'm *Front-end REACT developer* from Dnipro (Ukraine).
 ## Check my Linkedin: [Linkedin](https://www.linkedin.com/in/misha-mishin-7b4a03207/)
 ## Languages and Technologies
