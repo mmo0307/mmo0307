@@ -8,6 +8,7 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![TAILWIND](https://img.shields.io/badge/-TAILWIND-090909?style=for-the-badge&logo=tailwind)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![NEST](https://img.shields.io/badge/-NEST-090909?style=for-the-badge&logo=nest)
