@@ -1,8 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8BHi%2C+my+name+is+Misha+Mishin!)](https://git.io/typing-svg)
-## I'm *Full-Stack developer* from Dnipro (Ukraine).
-## Check my social networks:
-###
 
+## I'm *Full-Stack developer* from Dnipro (Ukraine).
+
+## Check my social networks:
 <div align="left">
   <a href="https://www.linkedin.com/in/misha-mishin-7b4a03207/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -17,7 +17,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
-
 ###
 
 ## Languages and Technologies
@@ -46,9 +45,7 @@
 ![REACT TESTING LIBRARY](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
 ###
-
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
 ###
