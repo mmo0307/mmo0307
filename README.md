@@ -27,3 +27,11 @@
 ![REACT TESTING LIBRARY](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ### ✉️ Mail me: mmo030702@gmail.com
 ### 🔵 Telegram: [@misha7737](https://t.me/misha7737)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
